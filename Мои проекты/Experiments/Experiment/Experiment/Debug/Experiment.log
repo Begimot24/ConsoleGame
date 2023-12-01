@@ -1,0 +1,2 @@
+﻿  Experiment.cpp
+C:\Users\Admin\Desktop\Programming\C++\Мои проекты\Experiments\Experiment\Experiment\Experiment.cpp(29,5): error C2312: 'const char *': is caught by 'const char *' on line 25

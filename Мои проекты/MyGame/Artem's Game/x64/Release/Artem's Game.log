@@ -1,0 +1,4 @@
+﻿  Artem's Game.cpp
+C:\Users\Admin\Desktop\Programming\C++\Мои проекты\MyGame\Artem's Game\Artem's Game.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol WinMain
+C:\Users\Admin\Desktop\Programming\C++\Мои проекты\MyGame\Artem's Game\x64\Release\Artem's Game.exe : fatal error LNK1120: 1 unresolved externals

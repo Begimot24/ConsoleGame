@@ -1,0 +1,6 @@
+﻿  Console Game.cpp
+C:\Users\Admin\Desktop\Programming\C++\Мои проекты\MyGame\Consle Game\Console Game\Console Game.cpp(236,5): error C2601: 'main': local function definitions are illegal
+  C:\Users\Admin\Desktop\Programming\C++\Мои проекты\MyGame\Consle Game\Console Game\Console Game.cpp(175,1):
+  this line contains a '{' which has not yet been matched
+  
+C:\Users\Admin\Desktop\Programming\C++\Мои проекты\MyGame\Consle Game\Console Game\Console Game.cpp(175,1): error C1075: '{': no matching token found
